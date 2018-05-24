@@ -1,0 +1,8 @@
+Grupe1 Vardas1 Pavarde1
+Grupe1 Vardas16 Pavarde16
+Grupe2 Vardas2 Pavarde2
+Grupe2 Vardas3 Pavarde3
+Grupe2 Vardas5 Pavarde5
+Grupe2 Vardas Pavarde
+Grupe2 Vardas17 Pavarde17
+Grupe3 Vardas8 Pavarde8
